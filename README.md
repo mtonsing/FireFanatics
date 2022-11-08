@@ -8,7 +8,5 @@
   <img src="calfire2.jpeg" width="400" /> 
 </p> 
 ```
-| Syntax | Description|
-| -------| -------|
-| Header | Tile|
+Facts:Data
 ```
