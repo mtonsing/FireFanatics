@@ -7,4 +7,4 @@
   <img src="image1.png" width="100" />
   <img src="image1.png" width="100" /> 
 </p>
-# Why this is important 
+# Importance 
