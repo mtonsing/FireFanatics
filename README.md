@@ -36,7 +36,7 @@
  </tr>
 </table>
 <p align="center">
-  <img alt="Light" src="calfire1.jpeg" width="45%">
+  <img alt="Light" src="calfire1.jpeg" width="35%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="calfire12.jpeg" width="45%">
+  <img alt="Dark" src="calfire12.jpeg" width="35%">
 </p>
