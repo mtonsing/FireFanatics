@@ -19,10 +19,15 @@
  <tr>
     <td>
       <ul>
-          <li>item1</li>
-          <li>item2</li>
+          <li>facts about fire</li>
+          <li>Reasons why its important</li>
         </ul>
    </td>
-    <td>Lorem ipsum ...</td>
+    <td>
+       <ul>
+          <li>Actaul data of fire's in California</li>
+          <li>How it has changed over time</li>
+        </ul>
+   </td>
  </tr>
 </table>
