@@ -8,9 +8,7 @@
   <img src="calfire2.jpeg" width="400" /> 
 </p>
 # Importance 
-Info
-## Facts                    ## Data
-| Facts       | Data         |
+| Facts       | Data        |
 | ----------- | ----------- |
 | Header      | Title       |
 | Paragraph   | Text        |
