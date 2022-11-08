@@ -11,7 +11,7 @@
 
 
 
-<table border="0">
+<table border="4">
  <tr>
     <td><b style="font-size:30px">Facts</b></td>
     <td><b style="font-size:30px">Data</b></td>
