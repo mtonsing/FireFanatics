@@ -13,11 +13,12 @@
 
 <table border="0">
  <tr>
-    <td><b style="font-size:30px">Title</b></td>
-    <td><b style="font-size:30px">Title 2</b></td>
+    <td><b style="font-size:30px">Facts</b></td>
+    <td><b style="font-size:30px">Data</b></td>
  </tr>
  <tr>
-    <td>Lorem ipsum ...</td>
+    <td>*facts about fire
+   *more facts</td>
     <td>Lorem ipsum ...</td>
  </tr>
 </table>
