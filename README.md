@@ -1,4 +1,7 @@
-![Image](image1.png)
+//![Image](image1.png)
+<p float="left">
+  <img src="/image1.png" width="300" />
+</p>
 # Informative Page
 <p float="left">
   <img src="/image1.png" width="100" />
