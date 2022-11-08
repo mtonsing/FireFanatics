@@ -6,10 +6,11 @@
 <style>H2{color:DarkOrange;}</style>
 <style>H3{color:DarkOrange;}</style>
 # Informational Page
-<p float="left">
-  <img src="calfire1.jpeg" width="400" />
-  <img src="calfire2.jpeg" width="400" /> 
-</p> 
+<p align="center">
+  <img alt="Light" src="calfire1.jpeg" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="calfire2.jpeg" width="45%">
+</p>
 ## Why this is important
 
 
@@ -35,8 +36,4 @@
    </td>
  </tr>
 </table>
-<p align="center">
-  <img alt="Light" src="calfire1.jpeg" width="45%">
-&nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="calfire2.jpeg" width="45%">
-</p>
+
