@@ -9,3 +9,12 @@
 </p>
 # Importance 
 Info
+## Facts                    ## Data
+<p float="left">
+  ## Facts
+  hsfhjksjkfs
+</p>
+<p float="right">
+  ## Facts
+  hsfhjksjkfs
+</p>
