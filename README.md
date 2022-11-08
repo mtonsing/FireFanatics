@@ -1,5 +1,7 @@
 ![Image](image1.png)
 # Informative Page
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![](https://...Dark.png)  |  ![](https://...Ocean.png)
+<p float="left">
+  <img src="/image1.png" width="100" />
+  <img src="/image1.png" width="100" /> 
+  <img src="/image1.png" width="100" />
+</p>
