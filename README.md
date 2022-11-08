@@ -5,13 +5,13 @@
 <style>H1{color:Red;}</style>
 <style>H2{color:DarkOrange;}</style>
 <style>H3{color:DarkOrange;}</style>
-``` Cite the photos ```
 # Informational Page
 <p align="center">
   <img alt="Light" src="calfire1.jpeg" width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="Dark" src="calfire2.jpeg" width="45%">
 </p>
+``` Cite the photos ```
 ## Why this is important
 
 
