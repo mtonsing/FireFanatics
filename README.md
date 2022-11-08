@@ -4,6 +4,7 @@
 </p>
 <style>H1{color:Red;}</style>
 <style>H2{color:DarkOrange;}</style>
+<style>H3{color:DarkOrange;}</style>
 # Informational Page
 <p float="left">
   <img src="calfire1.jpeg" width="400" />
