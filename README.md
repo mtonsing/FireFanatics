@@ -8,6 +8,4 @@
   <img src="calfire2.jpeg" width="400" /> 
 </p>
 # Importance 
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![](https://...Dark.png)  |  ![](https://...Ocean.png)
+Info
