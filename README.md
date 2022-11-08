@@ -37,6 +37,6 @@
  </tr>
 </table>
 <p align="center">
-  <img alt="Light" src="calfire3.webp" width="45%">
+  <img alt="Light" src="calfire3.webp" width="85%">
 &nbsp; &nbsp; &nbsp; &nbsp;
 </p>
