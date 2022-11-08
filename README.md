@@ -1,2 +1,2 @@
 # FireFanatics
-![Image](PM.png)
+![Image](image1.png)
