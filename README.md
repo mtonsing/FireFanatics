@@ -8,9 +8,7 @@
   <img src="calfire2.jpeg" width="400" /> 
 </p> 
 ```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
+| Syntax | Description|
+| -------| -------|
+| Header | Tile|
 ```
