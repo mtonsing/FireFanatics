@@ -36,4 +36,7 @@
    </td>
  </tr>
 </table>
-
+<p align="center">
+  <img alt="Light" src="calfire3.webp" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+</p>
