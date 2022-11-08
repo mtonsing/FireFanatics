@@ -10,11 +10,7 @@
 # Importance 
 Info
 ## Facts                    ## Data
-<p float="left">
-  ## Facts
-  hsfhjksjkfs
-</p>
-<p float="right">
-  ## Facts
-  hsfhjksjkfs
-</p>
+| Facts       | Data         |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
