@@ -17,8 +17,12 @@
     <td><b style="font-size:30px">Data</b></td>
  </tr>
  <tr>
-    <td>*facts about fire
-   *more facts</td>
+    <td>
+      <ul>
+          <li>item1</li>
+          <li>item2</li>
+        </ul>
+   </td>
     <td>Lorem ipsum ...</td>
  </tr>
 </table>
